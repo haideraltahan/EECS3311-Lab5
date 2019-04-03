@@ -1,0 +1,9 @@
+
+# Created by https://www.gitignore.io/api/eiffelstudio
+# Edit at https://www.gitignore.io/?templates=eiffelstudio
+
+### EiffelStudio ###
+# The compilation directory
+EIFGENs
+
+# End of https://www.gitignore.io/api/eiffelstudio
